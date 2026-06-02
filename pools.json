@@ -1,0 +1,1046 @@
+{
+  "nations": [
+    {
+      "pool": "A",
+      "rank": 1,
+      "nation": "France",
+      "multiplier": 1.0
+    },
+    {
+      "pool": "A",
+      "rank": 2,
+      "nation": "Spain",
+      "multiplier": 1.0
+    },
+    {
+      "pool": "A",
+      "rank": 3,
+      "nation": "Argentina",
+      "multiplier": 1.0
+    },
+    {
+      "pool": "A",
+      "rank": 4,
+      "nation": "England",
+      "multiplier": 1.0
+    },
+    {
+      "pool": "A",
+      "rank": 5,
+      "nation": "Portugal",
+      "multiplier": 1.0
+    },
+    {
+      "pool": "A",
+      "rank": 6,
+      "nation": "Brazil",
+      "multiplier": 1.0
+    },
+    {
+      "pool": "A",
+      "rank": 7,
+      "nation": "Netherlands",
+      "multiplier": 1.0
+    },
+    {
+      "pool": "A",
+      "rank": 8,
+      "nation": "Germany",
+      "multiplier": 1.0
+    },
+    {
+      "pool": "B",
+      "rank": 9,
+      "nation": "Belgium",
+      "multiplier": 1.0
+    },
+    {
+      "pool": "B",
+      "rank": 10,
+      "nation": "Morocco",
+      "multiplier": 1.0
+    },
+    {
+      "pool": "B",
+      "rank": 11,
+      "nation": "Croatia",
+      "multiplier": 1.0
+    },
+    {
+      "pool": "B",
+      "rank": 12,
+      "nation": "Colombia",
+      "multiplier": 1.0
+    },
+    {
+      "pool": "B",
+      "rank": 13,
+      "nation": "Senegal",
+      "multiplier": 1.0
+    },
+    {
+      "pool": "B",
+      "rank": 14,
+      "nation": "Mexico",
+      "multiplier": 1.0
+    },
+    {
+      "pool": "B",
+      "rank": 15,
+      "nation": "United States",
+      "multiplier": 1.0
+    },
+    {
+      "pool": "B",
+      "rank": 16,
+      "nation": "Uruguay",
+      "multiplier": 1.0
+    },
+    {
+      "pool": "C",
+      "rank": 17,
+      "nation": "Japan",
+      "multiplier": 1.1
+    },
+    {
+      "pool": "C",
+      "rank": 18,
+      "nation": "Switzerland",
+      "multiplier": 1.1
+    },
+    {
+      "pool": "C",
+      "rank": 19,
+      "nation": "Iran",
+      "multiplier": 1.1
+    },
+    {
+      "pool": "C",
+      "rank": 20,
+      "nation": "Türkiye",
+      "multiplier": 1.1
+    },
+    {
+      "pool": "C",
+      "rank": 21,
+      "nation": "Austria",
+      "multiplier": 1.1
+    },
+    {
+      "pool": "C",
+      "rank": 22,
+      "nation": "Ecuador",
+      "multiplier": 1.1
+    },
+    {
+      "pool": "C",
+      "rank": 23,
+      "nation": "South Korea",
+      "multiplier": 1.1
+    },
+    {
+      "pool": "C",
+      "rank": 24,
+      "nation": "Australia",
+      "multiplier": 1.1
+    },
+    {
+      "pool": "D",
+      "rank": 25,
+      "nation": "Egypt",
+      "multiplier": 1.1
+    },
+    {
+      "pool": "D",
+      "rank": 26,
+      "nation": "Algeria",
+      "multiplier": 1.1
+    },
+    {
+      "pool": "D",
+      "rank": 27,
+      "nation": "Canada",
+      "multiplier": 1.1
+    },
+    {
+      "pool": "D",
+      "rank": 28,
+      "nation": "Norway",
+      "multiplier": 1.1
+    },
+    {
+      "pool": "D",
+      "rank": 29,
+      "nation": "Panama",
+      "multiplier": 1.1
+    },
+    {
+      "pool": "D",
+      "rank": 30,
+      "nation": "Ivory Coast",
+      "multiplier": 1.1
+    },
+    {
+      "pool": "D",
+      "rank": 31,
+      "nation": "Sweden",
+      "multiplier": 1.1
+    },
+    {
+      "pool": "D",
+      "rank": 32,
+      "nation": "Paraguay",
+      "multiplier": 1.1
+    },
+    {
+      "pool": "E",
+      "rank": 33,
+      "nation": "Czech Rep",
+      "multiplier": 1.3
+    },
+    {
+      "pool": "E",
+      "rank": 34,
+      "nation": "Scotland",
+      "multiplier": 1.3
+    },
+    {
+      "pool": "E",
+      "rank": 35,
+      "nation": "Tunisia",
+      "multiplier": 1.3
+    },
+    {
+      "pool": "E",
+      "rank": 36,
+      "nation": "DR Congo",
+      "multiplier": 1.3
+    },
+    {
+      "pool": "E",
+      "rank": 37,
+      "nation": "Uzbekistan",
+      "multiplier": 1.3
+    },
+    {
+      "pool": "E",
+      "rank": 38,
+      "nation": "Qatar",
+      "multiplier": 1.3
+    },
+    {
+      "pool": "E",
+      "rank": 39,
+      "nation": "Iraq",
+      "multiplier": 1.3
+    },
+    {
+      "pool": "E",
+      "rank": 40,
+      "nation": "South Africa",
+      "multiplier": 1.3
+    },
+    {
+      "pool": "F",
+      "rank": 41,
+      "nation": "Saudi Arabia",
+      "multiplier": 1.5
+    },
+    {
+      "pool": "F",
+      "rank": 42,
+      "nation": "Jordan",
+      "multiplier": 1.5
+    },
+    {
+      "pool": "F",
+      "rank": 43,
+      "nation": "Bosnia & H.",
+      "multiplier": 1.5
+    },
+    {
+      "pool": "F",
+      "rank": 44,
+      "nation": "Cape Verde",
+      "multiplier": 1.5
+    },
+    {
+      "pool": "F",
+      "rank": 45,
+      "nation": "Ghana",
+      "multiplier": 1.5
+    },
+    {
+      "pool": "F",
+      "rank": 46,
+      "nation": "Curaçao",
+      "multiplier": 1.5
+    },
+    {
+      "pool": "F",
+      "rank": 47,
+      "nation": "Haiti",
+      "multiplier": 1.5
+    },
+    {
+      "pool": "F",
+      "rank": 48,
+      "nation": "New Zealand",
+      "multiplier": 1.5
+    }
+  ],
+  "players": [
+    {
+      "pool": 1,
+      "player": "L. Martínez",
+      "nation": "ARG",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 1,
+      "player": "L. Messi",
+      "nation": "ARG",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 1,
+      "player": "K. De Bruyne",
+      "nation": "BEL",
+      "position": "MID",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 1,
+      "player": "V. Júnior",
+      "nation": "BRA",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 1,
+      "player": "O. Dembele",
+      "nation": "FRA",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 1,
+      "player": "H. Kane",
+      "nation": "ENG",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 1,
+      "player": "J. Bellingham",
+      "nation": "ENG",
+      "position": "MID",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 1,
+      "player": "K. Mbappé",
+      "nation": "FRA",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 1,
+      "player": "J. Musiala",
+      "nation": "GER",
+      "position": "MID",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 1,
+      "player": "E. Haaland",
+      "nation": "NOR",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 1,
+      "player": "C. Ronaldo",
+      "nation": "POR",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 1,
+      "player": "L. Yamal",
+      "nation": "ESP",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 2,
+      "player": "J. Álvarez",
+      "nation": "ARG",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 2,
+      "player": "R. Lukaku",
+      "nation": "BEL",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 2,
+      "player": "Raphinha",
+      "nation": "BRA",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 2,
+      "player": "Rodrygo",
+      "nation": "BRA",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 2,
+      "player": "B. Saka",
+      "nation": "ENG",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 2,
+      "player": "A. Griezmann",
+      "nation": "FRA",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 2,
+      "player": "M. Salah",
+      "nation": "EGY",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 2,
+      "player": "C. Gakpo",
+      "nation": "NED",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 2,
+      "player": "D. Malen",
+      "nation": "NED",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 2,
+      "player": "J. Félix",
+      "nation": "POR",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 2,
+      "player": "R. Leão",
+      "nation": "POR",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 2,
+      "player": "F. Torres",
+      "nation": "ESP",
+      "position": "FWD",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 3,
+      "player": "A. Mac Allister",
+      "nation": "ARG",
+      "position": "MID",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 3,
+      "player": "E. Fernández",
+      "nation": "ARG",
+      "position": "MID",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 3,
+      "player": "L. Paquetá",
+      "nation": "BRA",
+      "position": "MID",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 3,
+      "player": "F. Wirtz",
+      "nation": "GER",
+      "position": "MID",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 3,
+      "player": "D. Rice",
+      "nation": "ENG",
+      "position": "MID",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 3,
+      "player": "İ. Gündoğan",
+      "nation": "GER",
+      "position": "MID",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 3,
+      "player": "X. Simons",
+      "nation": "NED",
+      "position": "MID",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 3,
+      "player": "B. Silva",
+      "nation": "POR",
+      "position": "MID",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 3,
+      "player": "B. Fernandes",
+      "nation": "POR",
+      "position": "MID",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 3,
+      "player": "Pedri",
+      "nation": "ESP",
+      "position": "MID",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 3,
+      "player": "Rodri",
+      "nation": "ESP",
+      "position": "MID",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 3,
+      "player": "F. Valverde",
+      "nation": "URU",
+      "position": "MID",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 4,
+      "player": "N. Otamendi",
+      "nation": "ARG",
+      "position": "DEF",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 4,
+      "player": "Gabriel",
+      "nation": "BRA",
+      "position": "DEF",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 4,
+      "player": "Marquinhos",
+      "nation": "BRA",
+      "position": "DEF",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 4,
+      "player": "J. Gvardiol",
+      "nation": "CRO",
+      "position": "DEF",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 4,
+      "player": "L. Hernández",
+      "nation": "FRA",
+      "position": "DEF",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 4,
+      "player": "W. Saliba",
+      "nation": "FRA",
+      "position": "DEF",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 4,
+      "player": "A. Rüdiger",
+      "nation": "GER",
+      "position": "DEF",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 4,
+      "player": "A. Hakimi",
+      "nation": "MOR",
+      "position": "DEF",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 4,
+      "player": "V. van Dijk",
+      "nation": "NED",
+      "position": "DEF",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 4,
+      "player": "N. O'Reilly",
+      "nation": "ENG",
+      "position": "DEF",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 4,
+      "player": "R. Dias",
+      "nation": "POR",
+      "position": "DEF",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 4,
+      "player": "M. Cucurella",
+      "nation": "ESP",
+      "position": "DEF",
+      "multiplier": 1.0
+    },
+    {
+      "pool": 5,
+      "player": "M. Sabitzer",
+      "nation": "AUT",
+      "position": "MID",
+      "multiplier": 1.2
+    },
+    {
+      "pool": 5,
+      "player": "A. Davies",
+      "nation": "CAN",
+      "position": "DEF",
+      "multiplier": 1.2
+    },
+    {
+      "pool": 5,
+      "player": "L. Díaz",
+      "nation": "COL",
+      "position": "FWD",
+      "multiplier": 1.2
+    },
+    {
+      "pool": 5,
+      "player": "M. Taremi",
+      "nation": "IRN",
+      "position": "FWD",
+      "multiplier": 1.2
+    },
+    {
+      "pool": 5,
+      "player": "T. Kubo",
+      "nation": "JPN",
+      "position": "MID",
+      "multiplier": 1.2
+    },
+    {
+      "pool": 5,
+      "player": "S. Mané",
+      "nation": "SEN",
+      "position": "FWD",
+      "multiplier": 1.2
+    },
+    {
+      "pool": 5,
+      "player": "A. Robertson",
+      "nation": "SCO",
+      "position": "DEF",
+      "multiplier": 1.2
+    },
+    {
+      "pool": 5,
+      "player": "V. Gyökeres",
+      "nation": "SWE",
+      "position": "FWD",
+      "multiplier": 1.2
+    },
+    {
+      "pool": 5,
+      "player": "G. Xhaka",
+      "nation": "SUI",
+      "position": "MID",
+      "multiplier": 1.2
+    },
+    {
+      "pool": 5,
+      "player": "H. Çalhanoğlu",
+      "nation": "TUR",
+      "position": "MID",
+      "multiplier": 1.2
+    },
+    {
+      "pool": 5,
+      "player": "C. Pulisic",
+      "nation": "USA",
+      "position": "FWD",
+      "multiplier": 1.2
+    },
+    {
+      "pool": 5,
+      "player": "D. Núñez",
+      "nation": "URU",
+      "position": "FWD",
+      "multiplier": 1.2
+    },
+    {
+      "pool": 6,
+      "player": "M. Gregoritsch",
+      "nation": "AUT",
+      "position": "FWD",
+      "multiplier": 1.3
+    },
+    {
+      "pool": 6,
+      "player": "J. David",
+      "nation": "CAN",
+      "position": "FWD",
+      "multiplier": 1.3
+    },
+    {
+      "pool": 6,
+      "player": "J. Rodríguez",
+      "nation": "COL",
+      "position": "MID",
+      "multiplier": 1.3
+    },
+    {
+      "pool": 6,
+      "player": "S. Azmoun",
+      "nation": "IRN",
+      "position": "FWD",
+      "multiplier": 1.3
+    },
+    {
+      "pool": 6,
+      "player": "A. Semenyo",
+      "nation": "GHA",
+      "position": "FWD",
+      "multiplier": 1.3
+    },
+    {
+      "pool": 6,
+      "player": "L. Kang-in",
+      "nation": "KOR",
+      "position": "MID",
+      "multiplier": 1.3
+    },
+    {
+      "pool": 6,
+      "player": "S. McTominay",
+      "nation": "SCO",
+      "position": "MID",
+      "multiplier": 1.3
+    },
+    {
+      "pool": 6,
+      "player": "Elanga",
+      "nation": "SWE",
+      "position": "FWD",
+      "multiplier": 1.3
+    },
+    {
+      "pool": 6,
+      "player": "B. Embolo",
+      "nation": "SUI",
+      "position": "FWD",
+      "multiplier": 1.3
+    },
+    {
+      "pool": 6,
+      "player": "A. Güler",
+      "nation": "TUR",
+      "position": "MID",
+      "multiplier": 1.3
+    },
+    {
+      "pool": 6,
+      "player": "F. Balogun",
+      "nation": "USA",
+      "position": "FWD",
+      "multiplier": 1.3
+    },
+    {
+      "pool": 6,
+      "player": "T. Weah",
+      "nation": "USA",
+      "position": "FWD",
+      "multiplier": 1.3
+    },
+    {
+      "pool": 7,
+      "player": "M. Amoura",
+      "nation": "ALG",
+      "position": "FWD",
+      "multiplier": 1.6
+    },
+    {
+      "pool": 7,
+      "player": "R. Mahrez",
+      "nation": "ALG",
+      "position": "FWD",
+      "multiplier": 1.6
+    },
+    {
+      "pool": 7,
+      "player": "D. Livramento",
+      "nation": "CPV",
+      "position": "FWD",
+      "multiplier": 1.6
+    },
+    {
+      "pool": 7,
+      "player": "C. Summerville",
+      "nation": "CUW",
+      "position": "FWD",
+      "multiplier": 1.6
+    },
+    {
+      "pool": 7,
+      "player": "Y. Wissa",
+      "nation": "DRC",
+      "position": "FWD",
+      "multiplier": 1.6
+    },
+    {
+      "pool": 7,
+      "player": "M. Caicedo",
+      "nation": "ECU",
+      "position": "MID",
+      "multiplier": 1.6
+    },
+    {
+      "pool": 7,
+      "player": "M. Kudus",
+      "nation": "GHA",
+      "position": "FWD",
+      "multiplier": 1.6
+    },
+    {
+      "pool": 7,
+      "player": "S. Giménez",
+      "nation": "MEX",
+      "position": "FWD",
+      "multiplier": 1.6
+    },
+    {
+      "pool": 7,
+      "player": "C. Wood",
+      "nation": "NZL",
+      "position": "FWD",
+      "multiplier": 1.6
+    },
+    {
+      "pool": 7,
+      "player": "A. Afif",
+      "nation": "QAT",
+      "position": "FWD",
+      "multiplier": 1.6
+    },
+    {
+      "pool": 8,
+      "player": "A. Hrustić",
+      "nation": "AUS",
+      "position": "MID",
+      "multiplier": 1.7
+    },
+    {
+      "pool": 8,
+      "player": "E. Bajraktarević",
+      "nation": "BOS",
+      "position": "FWD",
+      "multiplier": 1.7
+    },
+    {
+      "pool": 8,
+      "player": "R. Mendes",
+      "nation": "CPV",
+      "position": "FWD",
+      "multiplier": 1.7
+    },
+    {
+      "pool": 8,
+      "player": "L. Krejčí",
+      "nation": "CZE",
+      "position": "DEF",
+      "multiplier": 1.7
+    },
+    {
+      "pool": 8,
+      "player": "F. Kessié",
+      "nation": "CIV",
+      "position": "MID",
+      "multiplier": 1.7
+    },
+    {
+      "pool": 8,
+      "player": "E. Valencia",
+      "nation": "ECU",
+      "position": "FWD",
+      "multiplier": 1.7
+    },
+    {
+      "pool": 8,
+      "player": "Trézéguet",
+      "nation": "EGY",
+      "position": "FWD",
+      "multiplier": 1.7
+    },
+    {
+      "pool": 8,
+      "player": "D. Nazon",
+      "nation": "HAI",
+      "position": "FWD",
+      "multiplier": 1.7
+    },
+    {
+      "pool": 8,
+      "player": "A. Hussein",
+      "nation": "IRQ",
+      "position": "FWD",
+      "multiplier": 1.7
+    },
+    {
+      "pool": 8,
+      "player": "M. Al-Taamari",
+      "nation": "JOR",
+      "position": "FWD",
+      "multiplier": 1.7
+    }
+  ],
+  "ko_questions": [
+    {
+      "question_no": 1,
+      "question": "Who will be the lowest ranked team to reach the quarter finals? (based on Fifa Rankings tab)",
+      "rules": "Correct answer = 20pts. If your guess reaches the Last 16 only = 6pts."
+    },
+    {
+      "question_no": 2,
+      "question": "What are the total number of goals that will be scored in the 1st knockout round (Round of 32)?",
+      "rules": "Correct prediction = 20pts, two goals out = 10pts, four goals out = 6pts , six goals out = 3pts  "
+    },
+    {
+      "question_no": 3,
+      "question": "What are the total number of goals that will be scored in the the rest of the knockout games? ",
+      "rules": "Correct prediction = 20pts, two goals out = 10pts, four goals out = 6pts , six goals out = 3pts  "
+    },
+    {
+      "question_no": 4,
+      "question": "How many knockout games will end in a draw at 90 minutes?",
+      "rules": "Correct prediction = 20pts, two games out = 10 pts, four games out = 6pts, six games out = 4pts."
+    },
+    {
+      "question_no": 5,
+      "question": "How many penalty shootouts in total across the tournament?",
+      "rules": "Correct prediction = 20pts, one out = 10 pts, two out = 7pts, three out = 5pts."
+    },
+    {
+      "question_no": 6,
+      "question": "Which nation scores the MOST knockout-stage goals?",
+      "rules": "Correct prediction = 20pts, top #3 most = 5pts"
+    }
+  ],
+  "bets": [
+    {
+      "bet_no": 1,
+      "description": "Bet 1) | Will any team win in the KO stages with less than 35% possession? | Correct = 10pts, Wrong = -6pts",
+      "correct_points": 8,
+      "wrong_points": -4
+    },
+    {
+      "bet_no": 2,
+      "description": "Bet 2) | Will there be a red card in any quarter or semi final? | Correct = 10pts, Wrong = -6pts",
+      "correct_points": 8,
+      "wrong_points": -4
+    },
+    {
+      "bet_no": 3,
+      "description": "Bet 3) | Will all four teams in the semi finals score in regular or extra time? | Correct = 10pts, Wrong = -6pts",
+      "correct_points": 8,
+      "wrong_points": -4
+    },
+    {
+      "bet_no": 4,
+      "description": "Bet 4) | Do you think the first goal in the final will be scored in the first half? | Correct = 10pts, Wrong = -6pts",
+      "correct_points": 8,
+      "wrong_points": -4
+    }
+  ],
+  "nation_multipliers": {
+    "A": 1.0,
+    "B": 1.0,
+    "C": 1.1,
+    "D": 1.1,
+    "E": 1.3,
+    "F": 1.5
+  },
+  "player_multipliers": {
+    "1": 1.0,
+    "2": 1.0,
+    "3": 1.0,
+    "4": 1.0,
+    "5": 1.2,
+    "6": 1.3,
+    "7": 1.6,
+    "8": 1.7
+  },
+  "scoring": {
+    "nation": {
+      "win": 4,
+      "draw": 2,
+      "clean_sheet": 2,
+      "score_3_plus": 2,
+      "concede_3_plus": -1,
+      "beat_pool_a": 2,
+      "last32": 4,
+      "last16": 5,
+      "qf": 6,
+      "semi": 10,
+      "final": 20,
+      "winner": 30
+    },
+    "player": {
+      "goal_fwd": 5,
+      "goal_mid": 6,
+      "goal_def": 8,
+      "assist": 2,
+      "clean_sheet_mid": 1,
+      "clean_sheet_def": 3,
+      "motm": 5,
+      "yellow": -1,
+      "red": -3,
+      "missed_penalty": -3
+    },
+    "bets": {
+      "correct": 8,
+      "wrong": -4
+    }
+  }
+}
